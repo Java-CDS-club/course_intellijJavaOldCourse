@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>abdo</first_name>
+	<last_name>salem</last_name>
+	<phone_number>01122786504</phone_number>
+	<notes>hi</notes>
+</contact>
+<contact>
+	<first_name>mohamed</first_name>
+	<last_name>salem</last_name>
+	<phone_number>01122767624</phone_number>
+	<notes>hi</notes>
+</contact>
+</contacts>
